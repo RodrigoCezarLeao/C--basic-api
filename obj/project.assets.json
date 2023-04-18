@@ -460,23 +460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rodrigo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rodrigo.leao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo\\Documents\\Github\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\Rodrigo\\projetos-pessoais\\C--basic-api\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\Rodrigo\\Documents\\Github\\Catalog\\Catalog.csproj",
-      "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo\\Documents\\Github\\Catalog\\obj\\",
+      "projectPath": "C:\\Rodrigo\\projetos-pessoais\\C--basic-api\\Catalog.csproj",
+      "packagesPath": "C:\\Users\\rodrigo.leao\\.nuget\\packages\\",
+      "outputPath": "C:\\Rodrigo\\projetos-pessoais\\C--basic-api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodrigo.leao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -530,7 +526,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
